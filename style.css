@@ -6,7 +6,7 @@ body {
     display: flex;
     width: 70%;
     margin: 0 auto;
-    padding: 50px;
+    padding: 100px;
 }
 #dan {
     background-color: hsl(263, 55%, 52%);
@@ -32,12 +32,10 @@ body {
     color: hsl(217, 19%, 35%);
     width: 700px;
 }
-div{
-    margin: 5px;
-    border-radius: 5px;
-}
 .card {
     padding: 40px;
+    border-radius: 5px;
+    margin: 10px;
 }
 .col {
     display: flex;
