@@ -1,0 +1,59 @@
+body {
+    font-family: "Barlow Semi Condensed", sans-serif;
+    background-color: hsl(210, 46%, 95%);
+}
+.container{
+    display: flex;
+    width: 70%;
+    margin: 0 auto;
+}
+#dan {
+    background-color: hsl(263, 55%, 52%);
+    color:hsl(0, 0%, 100%);
+    background-image: url(images/bg-pattern-quotation.svg);
+    background-repeat: no-repeat;
+    background-position: top right 10%;
+}
+#jona {
+    background-color: hsl(217, 19%, 35%);
+    color: hsl(0, 0%, 100%);
+}
+#jean {
+    background-color: hsl(0, 0%, 100%);
+    color: hsl(217, 19%, 35%);
+}
+#pat {
+    background-color: hsl(219, 29%, 14%);
+    color: hsl(0, 0%, 100%);
+}
+#kira {
+    background-color: hsl(0, 0%, 100%);
+    color: hsl(217, 19%, 35%);
+    width: 700px;
+}
+div{
+    margin: 5px;
+    border-radius: 5px;
+}
+.card {
+    padding: 40px;
+}
+.col {
+    display: flex;
+}
+img {
+    border-radius: 50%;
+}
+.img {
+    display: flex;
+}
+h5, p {
+    margin: 0;
+}
+main{
+    font-weight: bold;
+    padding: 20px;
+}
+p{
+    font-size: small;
+}
