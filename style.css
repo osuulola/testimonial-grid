@@ -6,6 +6,7 @@ body {
     display: flex;
     width: 70%;
     margin: 0 auto;
+    padding: 50px;
 }
 #dan {
     background-color: hsl(263, 55%, 52%);
